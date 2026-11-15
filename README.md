@@ -25,3 +25,5 @@ Celé podrobnosti, včetně autorů a data, ukáže `git log` bez `--oneline`. P
 ## Můžu sem něco nahrát?
 
 Ne, k tomuto repozitáři nemáte práva k zápisu, a to je dobře. Kopii ve svém počítači ale můžete upravovat, jak chcete, a ukládat do ní vlastní verze. Na GitHub nahráváte do svého repozitáře `podklady-predmet`.
+
+Termíny kurzu: 16., 18. a 23. 11. 2026
