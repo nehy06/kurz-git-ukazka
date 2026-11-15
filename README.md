@@ -21,6 +21,7 @@ Celé podrobnosti, včetně autorů a data, ukáže `git log` bez `--oneline`. P
 
 - `README.md`: tento soubor
 - `tahak.md`: všechny příkazy z kurzu na jednom místě
+- `git-a-github-postup.md`: v jakém pořadí příkazy použít, když projekt zakládáte u sebe (`git init`) nebo ho stahujete z GitHubu (`git clone`)
 
 ## Můžu sem něco nahrát?
 
