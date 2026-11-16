@@ -2,6 +2,8 @@
 
 Příkazy z kurzu B1 Příprava prostředí pro práci s AI agenty. Fungují v PowerShellu, Git Bash i v Terminálu na Macu, výjimky jsou označené.
 
+přidaný řádek - podívejte se po pull co se změnilo
+
 ## Terminál
 
 | Příkaz | Co dělá |
